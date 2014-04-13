@@ -1,0 +1,32 @@
+Pool Party TODO:
+---------------------
+1. AI Behavior
+	- Pathfinding
+		- Nodes in possible AI locations
+	- state machine
+	- Bomb placement (smart?)
+	- Sprites
+2. Bombs
+	- Throwing?
+	- Player & AI
+	- Animation
+	- Destructable obstacles
+3. UI
+	- Health Bars
+	- Ammo display
+	- Panel Creation
+	- Start screen
+	- Victory/Defeat screen
+4. Box Art
+	- Photoshop Box Art
+5. Player
+	- Collision Handling
+	- Sprites
+	- Control Scheme
+		- Turn the player on direction change
+		- W, A, S, D
+		- Left Click => place bomb
+		- Right Click => throw bombs
+		
+	
+	
